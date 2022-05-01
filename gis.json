@@ -1,0 +1,951 @@
+{
+    "code": 1,
+    "geojson": {
+        "VTgeochrono_pts": {
+            "features": [
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -71.70852800021476,
+                            44.62038640032935
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dgmr",
+                        "INFO": "Rhyolite in felsic metavolcani member of the Gile Mountain Formation",
+                        "RAD_AGE": "407.0 +/- 3.3 Ma",
+                        "SAMPLENO": "45",
+                        "SHEET": "North",
+                        "SHORT_REF": "Rankin and Tucker (2009)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -71.56547910965917,
+                            44.6364395079201
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Ol",
+                        "INFO": "Lost Nation granite",
+                        "RAD_AGE": "444.1 +/- 2.1 Ma",
+                        "SAMPLENO": "29",
+                        "SHEET": "North",
+                        "SHORT_REF": "Rankin and Tucker (1999)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -71.57899418317896,
+                            44.55543603419184
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Ol",
+                        "INFO": "Lost Nation granite",
+                        "RAD_AGE": "442 +/- 4 Ma",
+                        "SAMPLENO": "30",
+                        "SHEET": "North",
+                        "SHORT_REF": "Moench and Aleinikoff (2003)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -71.57946617576715,
+                            44.447692389808694
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Ol",
+                        "INFO": "Lost Nation granite - U-Pb sphene age",
+                        "RAD_AGE": "443 +/- 3 Ma",
+                        "SAMPLENO": "31",
+                        "SHEET": "North",
+                        "SHORT_REF": "Moench and Aleinikoff (2003)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.48313952097944,
+                            44.15321670636059
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dbbg",
+                        "INFO": "Barre Granite",
+                        "RAD_AGE": "368 +/- 4 Ma",
+                        "SAMPLENO": "47",
+                        "SHEET": "North",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.13416324493612,
+                            43.93317902095781
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dlr",
+                        "INFO": "Metarhyolite in the Littleton Formation",
+                        "RAD_AGE": "407.5 +/- 3.9 Ma",
+                        "SAMPLENO": "44",
+                        "SHEET": "North",
+                        "SHORT_REF": "Rankin and Tucker (2000)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.05258917095856,
+                            43.96602969498827
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Scm",
+                        "INFO": "Comerford Intrusive Complex dike at Peaked Mountain",
+                        "RAD_AGE": "418.5 +/- 2 Ma",
+                        "SAMPLENO": "35",
+                        "SHEET": "North",
+                        "SHORT_REF": "Rankin and others (2007)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -71.98305712118757,
+                            44.11281667723912
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dfbg",
+                        "INFO": "French Pond Granite",
+                        "RAD_AGE": "365 +/- 5 Ma",
+                        "SAMPLENO": "50",
+                        "SHEET": "North",
+                        "SHORT_REF": "Moench and Aleinikoff (2003)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.01379627204373,
+                            44.25886973187373
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dr",
+                        "INFO": "Metarhyolite dike in the Albee Formation",
+                        "RAD_AGE": "412 +/- 2 Ma",
+                        "SAMPLENO": "41",
+                        "SHEET": "North",
+                        "SHORT_REF": "Moench and others (1995); Lyons and others (1997)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.70809474818617,
+                            43.992200446740334
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Sbd",
+                        "INFO": "Diorite of the Braintree Intrusive Complex",
+                        "RAD_AGE": "419 +/- 0.39 Ma",
+                        "SAMPLENO": "36",
+                        "SHEET": "North",
+                        "SHORT_REF": "Black and others (2004)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.69983215627892,
+                            43.99887263125223
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Sbg",
+                        "INFO": "Granite of the Braintree Intrusive Complex",
+                        "RAD_AGE": "421 +/- 7 Ma",
+                        "SAMPLENO": "38",
+                        "SHEET": "North",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.13689021356359,
+                            43.91318913389111
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dfqm",
+                        "INFO": "Fairlee Quartz Monzonite",
+                        "RAD_AGE": "410 +/- 5 Ma",
+                        "SAMPLENO": "42",
+                        "SHEET": "North",
+                        "SHORT_REF": "Moench and Aleinikoff (2003)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.80253282684178,
+                            43.18497402007884
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y1dg",
+                        "INFO": "Hornblende diorite gneiss at South Londonderry",
+                        "RAD_AGE": "1393 +/- 9 Ma",
+                        "SAMPLENO": "1",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.63673102395157,
+                            43.423267609207095
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Onb",
+                        "INFO": "Trondhjemite in the Barnard Gneiss at Proctorsville",
+                        "RAD_AGE": "496 +/- 8 Ma",
+                        "SAMPLENO": "23",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.81052063386345,
+                            43.14345540228663
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y2cp",
+                        "INFO": "Cole Pond tonalite gneiss",
+                        "RAD_AGE": "1321 +/- 9 Ma",
+                        "SAMPLENO": "7",
+                        "SHEET": "South",
+                        "SHORT_REF": "Ratcliffe and others (1991); Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.78890850986677,
+                            43.09702554625779
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y1rta",
+                        "INFO": "Aplite facies of Rawsonville trondhjemitic gneiss, previously assigned to Bondville trondhjemitic gneiss",
+                        "RAD_AGE": "1348 +/- 3 Ma",
+                        "SAMPLENO": "6",
+                        "SHEET": "South",
+                        "SHORT_REF": "Ratcliffe and others (1991)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.58510147119044,
+                            43.331279751599844
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dg",
+                        "INFO": "Granite in the Chester dome",
+                        "RAD_AGE": "392 +/- 6 Ma",
+                        "SAMPLENO": "46",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.60620572749977,
+                            43.31853972635008
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y1bm",
+                        "INFO": "Baileys Mills tonalitic gneiss in the Chester dome",
+                        "RAD_AGE": "1383 +/- 13 Ma",
+                        "SAMPLENO": "2",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.5412340920818,
+                            43.23944300018185
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Ont",
+                        "INFO": "Tonalite gneiss in the North River Igneous Suite near Bartonsville",
+                        "RAD_AGE": "486 +/- 3 Ma",
+                        "SAMPLENO": "24",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.55528359046957,
+                            43.23436919420993
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y3Ccbbh",
+                        "INFO": "Bull Hill Gneiss in the Chester dome",
+                        "RAD_AGE": "945 +/- 7 Ma",
+                        "SAMPLENO": "17",
+                        "SHEET": "South",
+                        "SHORT_REF": "Karabinos and Aleinikoff (1990)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.45450421625111,
+                            43.269190379018454
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "DSwf",
+                        "INFO": "Felsic rock in the Waits River Formation",
+                        "RAD_AGE": "423 +/- 4 Ma",
+                        "SAMPLENO": "32",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and Karabinos (1990); Hueber and others (1990)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.60906888699905,
+                            42.91995615118821
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dbmg",
+                        "INFO": "Black Mountain pluton",
+                        "RAD_AGE": "364 +/- 4 Ma",
+                        "SAMPLENO": "48",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.64789741287349,
+                            43.11010498473567
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y3Ccbbh",
+                        "INFO": "Bull Hill Gneiss on the west side of the Athens dome",
+                        "RAD_AGE": "955 +/- 5 Ma",
+                        "SAMPLENO": "18",
+                        "SHEET": "South",
+                        "SHORT_REF": "Karabinos and Aleinikoff (1990)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.59916270414845,
+                            43.38354905141162
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y1fga",
+                        "INFO": "Felchville Gneiss (aplitic facies) at Cavendish Gorge",
+                        "RAD_AGE": "1372 +/- 11 Ma",
+                        "SAMPLENO": "4",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.47980161764104,
+                            43.366199959991874
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Ochv",
+                        "INFO": "Felsic volcanic layer interlayered with mafic volcanics in the Cram Hill Formation at Springfield",
+                        "RAD_AGE": "483 +/- 3 Ma",
+                        "SAMPLENO": "25",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.78999583585637,
+                            43.05562589957415
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y3Ccbsr",
+                        "INFO": "Somerset Reservior Granite",
+                        "RAD_AGE": "965 +/- 4 Ma",
+                        "SAMPLENO": "19",
+                        "SHEET": "South",
+                        "SHORT_REF": "Karabinos and Aleinikoff (1990)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.94050108639269,
+                            43.22767172118319
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y1rt",
+                        "INFO": "Rawsonville trondhjemite gneiss at Bromley Mountain",
+                        "RAD_AGE": "1367 +/- 16 Ma",
+                        "SAMPLENO": "3",
+                        "SHEET": "South",
+                        "SHORT_REF": "Ratcliffe and others (1991); Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.87089219476665,
+                            43.188526071207804
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y2gg",
+                        "INFO": "Granitic gneiss crosscuts older and deformed intrusives (1.3-1.4 Ga suite) and paragneiss",
+                        "RAD_AGE": "1221 +/- 4 Ma",
+                        "SAMPLENO": "12",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.87079942755946,
+                            43.12699325640666
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y2ch",
+                        "INFO": "College Hill Granite at Stratton Mountain - crosscuts older and deformed intrusives and paragneiss",
+                        "RAD_AGE": "1244 +/- 8 Ma",
+                        "SAMPLENO": "11",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.89279256905381,
+                            43.09343516856148
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y2mig",
+                        "INFO": "Migmatitic gneiss at Stratton Mountain",
+                        "RAD_AGE": "1326 +/- 4 Ma",
+                        "SAMPLENO": "8",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.74337676371533,
+                            43.41017954058112
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y2lgg",
+                        "INFO": "Fine-grained granodiorite at Ludlow Mountain",
+                        "RAD_AGE": "1309 +/- 6 Ma",
+                        "SAMPLENO": "9",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.74374931264872,
+                            43.41236172915635
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y2lq",
+                        "INFO": "Okemo Quartzite - detrital zircons",
+                        "RAD_AGE": "about 1261 to 1359 Ma",
+                        "SAMPLENO": "10",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.72317850545399,
+                            43.50551820661195
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dg",
+                        "INFO": "Granite dike south of Plymouth",
+                        "RAD_AGE": "365 +/- 5 Ma",
+                        "SAMPLENO": "49",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.82578783509858,
+                            43.71453526875784
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y3Ama",
+                        "INFO": "Megacrystic granite gneiss on the eastern side of the Green Mountain massif",
+                        "RAD_AGE": "1119 +/- 3.3 Ma",
+                        "SAMPLENO": "15",
+                        "SHEET": "South",
+                        "SHORT_REF": "Karabinos and Aleinikoff (1990)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.88682824453664,
+                            43.725881437477284
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y3Ama",
+                        "INFO": "Megacrystic granite gneiss east of Chittenden Reservoir",
+                        "RAD_AGE": "1121 +/- 1.4 Ma",
+                        "SAMPLENO": "14",
+                        "SHEET": "South",
+                        "SHORT_REF": "Karabinos and Aleinikoff (1990)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -71.8020745124381,
+                            44.32154772278604
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Ohi",
+                        "INFO": "Highlandcroft pluton",
+                        "RAD_AGE": "450 +/- 5 Ma",
+                        "SAMPLENO": "28",
+                        "SHEET": "North",
+                        "SHORT_REF": "Lyons and others (1986)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.70674494638932,
+                            42.93332520783818
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Onnt",
+                        "INFO": "Newfane tonalite intruding the Cram Hill Formation near South Newfane",
+                        "RAD_AGE": "502 +/- 4 Ma",
+                        "SAMPLENO": "22",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.6158451115383,
+                            43.58523376087466
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Sbg",
+                        "INFO": "Unmapped felsic dike of Sbg in Onbm at Bridgewater",
+                        "RAD_AGE": "418 +/- 1 Ma",
+                        "SAMPLENO": "37",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and Karabinos (1990)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.53433050308094,
+                            43.46924592152541
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y1fg",
+                        "INFO": "Felchville Gneiss (trondhjemite facies) at Felchville",
+                        "RAD_AGE": "1370 +/- 11 Ma",
+                        "SAMPLENO": "5",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -73.00339054480641,
+                            43.39530830131702
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y3Bp",
+                        "INFO": "Migmatite gneiss in the Pine Hill slice",
+                        "RAD_AGE": "1037 +/- 6 Ma",
+                        "SAMPLENO": "16",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -73.09141616953984,
+                            42.747133753493436
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y3Ccbs",
+                        "INFO": "Stamford Granite near the Massachusetts border",
+                        "RAD_AGE": "962 +/- 1 Ma",
+                        "SAMPLENO": "20",
+                        "SHEET": "South",
+                        "SHORT_REF": "Karabinos and Aleinikoff (1988; 1990)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.83353424731145,
+                            43.869540199530505
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "CZphf",
+                        "INFO": "Rhyolitic metafelsite in the Pinney Hollow Formation",
+                        "RAD_AGE": "571 +/- 5 Ma",
+                        "SAMPLENO": "21",
+                        "SHEET": "South",
+                        "SHORT_REF": "Walsh and Aleinikoff (1999)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.62845912537679,
+                            43.764532659069324
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Onb",
+                        "INFO": "Trondhjemite in the Barnard Gneiss south of Bethel",
+                        "RAD_AGE": "471.4 +/- 3.7 Ma",
+                        "SAMPLENO": "26",
+                        "SHEET": "South",
+                        "SHORT_REF": "Karabinos and others (1998)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -71.84713683918254,
+                            44.36350757153939
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Oj",
+                        "INFO": "Joslin Turn pluton",
+                        "RAD_AGE": "469 +/- 1.5 Ma",
+                        "SAMPLENO": "27",
+                        "SHEET": "North",
+                        "SHORT_REF": "Moench and Aleinikoff (2003)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.01151823813657,
+                            44.24918081659896
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dr",
+                        "INFO": "Metarhyolite dike in the Albee Formation",
+                        "RAD_AGE": "414 +/- 4 Ma",
+                        "SAMPLENO": "40",
+                        "SHEET": "North",
+                        "SHORT_REF": "Moench and others (1995); Lyons and others (1997)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.00213521119447,
+                            44.34015273188665
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Scm",
+                        "INFO": "Comerford Intrusive Complex at Comerford quarry",
+                        "RAD_AGE": "419.8 +/- 2.6 Ma",
+                        "SAMPLENO": "33",
+                        "SHEET": "North",
+                        "SHORT_REF": "Rankin and others (2007)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.11684753939122,
+                            44.126560695131836
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Scm",
+                        "INFO": "Comerford Intrusive Complex at Leighton Hill",
+                        "RAD_AGE": "419.3 +/- 1.3 Ma",
+                        "SAMPLENO": "34",
+                        "SHEET": "North",
+                        "SHORT_REF": "Rankin and others (2007)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.24925790666764,
+                            44.99129524273563
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Snd",
+                        "INFO": "Trondhjemite of the Newport Intrusive Complex",
+                        "RAD_AGE": "425 +/- 3 Ma",
+                        "SAMPLENO": "39",
+                        "SHEET": "North",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.44051644710038,
+                            43.13431947626497
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dbgn",
+                        "INFO": "Bethlehem Gneiss in the pluton at Bellows Falls",
+                        "RAD_AGE": "407 +/- 5 Ma",
+                        "SAMPLENO": "43",
+                        "SHEET": "South",
+                        "SHORT_REF": "Kohn and others (1992)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.53852847020127,
+                            43.82649387089469
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Dgr",
+                        "INFO": "Volcanic zircons in quartzite in the Gile Mountain Formation at Royalton",
+                        "RAD_AGE": "409 +/- 5 Ma",
+                        "SAMPLENO": "51",
+                        "SHEET": "South",
+                        "SHORT_REF": "McWilliams and others (2010)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.87673339572932,
+                            43.1431402604123
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y2bv",
+                        "INFO": "Bondville metadacite at Winhall River bridge",
+                        "RAD_AGE": "about 1342 Ma",
+                        "SAMPLENO": "6B",
+                        "SHEET": "South",
+                        "SHORT_REF": "Ratcliffe and others (1991); Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                },
+                {
+                    "geometry": {
+                        "coordinates": [
+                            -72.97051461245763,
+                            43.84070700461674
+                        ],
+                        "type": "Point"
+                    },
+                    "properties": {
+                        "CODE": "Y3Amb",
+                        "INFO": "Megacrystic granite gneiss at Brandon Gap",
+                        "RAD_AGE": "1149 +/- 8 Ma",
+                        "SAMPLENO": "13",
+                        "SHEET": "South",
+                        "SHORT_REF": "Aleinikoff and others (2011)"
+                    },
+                    "type": "Feature"
+                }
+            ],
+            "type": "FeatureCollection"
+        }
+    },
+    "msg": "目标文件不存在",
+    "xmax": -71.56547910965917,
+    "xmin": -73.09141616953984,
+    "ymax": 44.99129524273563,
+    "ymin": 42.747133753493436
+}
